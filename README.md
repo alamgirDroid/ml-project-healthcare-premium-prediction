@@ -14,7 +14,6 @@ Live Link: https://ml-project-healthcare-premium-prediction1.streamlit.app/
 3. **Deployment** – Deploy to cloud (e.g., AWS/GCP)  
 4. **App Interface** – Build user-friendly Streamlit UI  
 5. **Testing** – Validate with real-world data  
-6. **Documentation** – Guide for underwriters
 
 ### Set Up
 
