@@ -2,7 +2,7 @@
 
 Live Link: https://ml-project-healthcare-premium-prediction1.streamlit.app/
 
-## 🚀 Project Goals
+## 🚀 Model Details
 - ✔️ Build a high-accuracy (>97%) predictive model  
 - ✔️ 95% of predictions within 10% error margin  
 - ✔️ Deploy model on the cloud  
